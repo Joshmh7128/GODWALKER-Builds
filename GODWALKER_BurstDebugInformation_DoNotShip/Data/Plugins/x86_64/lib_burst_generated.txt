@@ -143,9 +143,9 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.Internal.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.Burst.dll
+--root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\DamageNumbersPro.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.RenderPipeline.Universal.ShaderLibrary.dll
---root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Poly2Tri.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.Services.Core.Internal.dll
@@ -326,9 +326,9 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.Internal.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.Burst.dll
+--root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\DamageNumbersPro.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.RenderPipeline.Universal.ShaderLibrary.dll
---root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Poly2Tri.dll
 --root-assembly=C:\Users\joshm\Documents\Unity\Projects\GODWALKER\GODWALKER\Temp\StagingArea\Data\Managed\Unity.Services.Core.Internal.dll
